@@ -1,0 +1,18 @@
+{
+  "name": "tradegpt-bot",
+  "version": "1.0.0",
+  "description": "Automated trading bot for TradeGPT Testnet",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.11.1",
+    "ora": "^7.0.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
+
